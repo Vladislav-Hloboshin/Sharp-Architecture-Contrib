@@ -1,3 +1,0 @@
-Breaking Changes:
-Move ComponentRegistrar from SharpArchContrib.Core.CastleWindsor to SharpArchContrib.Castle.CastleWindsor and rename to CoreComponentRegistrar
-Move registration of Data components to ComponentRegistrar in SharpArchContrib.Castle.CastleWindsor and rename to NHibernateTransactionsComponentRegistrar

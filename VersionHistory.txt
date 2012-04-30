@@ -1,3 +1,9 @@
+Version 1.0
+==============================================================================
+Update to SharpArchitecture 1.0, NHibernate 3.3
+Breaking Change: Move ComponentRegistrar from SharpArchContrib.Core.CastleWindsor to SharpArchContrib.Castle.CastleWindsor and rename to CoreComponentRegistrar
+Breaking Change: Move registration of Data components to ComponentRegistrar in SharpArchContrib.Castle.CastleWindsor and rename to NHibernateTransactionsComponentRegistrar
+
 Version 0.6.1
 ==============================================================================
 * Assembly version left at 0.6.0 for easier upgrade

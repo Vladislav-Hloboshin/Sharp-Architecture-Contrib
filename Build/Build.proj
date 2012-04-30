@@ -9,7 +9,7 @@
 	<VersionMajor>1</VersionMajor>
 	<VersionMinor>0</VersionMinor>
 	<VersionPatch>0</VersionPatch>
-	<VersionPreRelease>RC</VersionPreRelease>
+	<VersionPreRelease></VersionPreRelease>
   </PropertyGroup>
 
   <ItemGroup>
