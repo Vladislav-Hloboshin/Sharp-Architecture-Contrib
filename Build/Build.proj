@@ -8,7 +8,7 @@
     <SolutionRoot>$(BuildPath)\..\..</SolutionRoot>
 	<VersionMajor>1</VersionMajor>
 	<VersionMinor>0</VersionMinor>
-	<VersionPatch>0</VersionPatch>
+	<VersionPatch>1</VersionPatch>
 	<VersionPreRelease></VersionPreRelease>
   </PropertyGroup>
 
